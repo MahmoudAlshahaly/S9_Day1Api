@@ -11,5 +11,10 @@ namespace S9_Day1Api.Models
         }
         public DbSet<Employee> Employees { get; set; }
         public DbSet<Department> Departments { get; set; }
+        //
+        //
+        //
+        //
+
     }
 }

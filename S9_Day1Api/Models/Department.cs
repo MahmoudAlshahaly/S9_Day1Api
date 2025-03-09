@@ -8,6 +8,7 @@
         public ICollection<Employee>? Employees { get; set; }
         //
         //
+        public int MyProperty { get; set; }
 
     }
 }
